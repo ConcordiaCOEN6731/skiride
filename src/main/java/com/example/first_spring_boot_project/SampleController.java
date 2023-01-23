@@ -10,6 +10,6 @@ public class SampleController {
 
     @GetMapping
     public String returnValue() {
-        return "Jai Balayya !";
+        return "Jai Balayya !!";
     }
 }
